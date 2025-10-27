@@ -17,3 +17,6 @@ go run main.go
 Le serveur sera accessible sur http://localhost:8080
 
 ceci est un changement 
+
+git reset annule des changements en déplaçant la référence en arrière dans le temps sur un commit plus ancien.
+git revert permet d'annuler des changements et partager ces annulations avec d'autres. 
